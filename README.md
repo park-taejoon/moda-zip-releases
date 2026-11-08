@@ -1,9 +1,16 @@
-# Moda Zip 다운로드
+# Moda Zip
 
-최신 설치 파일은 **Releases**에서 받습니다.
+Windows · macOS 설치 파일만 올리는 공개 배포 저장소입니다.
 
-- Windows: `*-win-x64-setup.exe` (설치) / `*-win-x64-portable.exe` (포터블)
-- macOS Apple Silicon: `*-mac-arm64.dmg`
-- macOS Intel: `*-mac-x64.dmg`
+설명서와 다운로드: **[https://www.modaolive.com/download/modazip](https://www.modaolive.com/download/modazip)**
 
-앱 안의 자동 업데이트가 여기 Release의 최신 버전을 확인합니다.
+**[GitHub에서 설치 파일 받기](https://github.com/park-taejoon/moda-zip-releases/releases/latest)**
+
+| 파일 | 대상 |
+|---|---|
+| `Moda.Zip-*-win-x64-setup.exe` | Windows 설치 |
+| `Moda.Zip-*-win-x64-portable.exe` | Windows 휴대용 |
+| `Moda.Zip-*-mac-arm64.dmg` | Apple Silicon 맥 |
+| `Moda.Zip-*-mac-x64.dmg` | Intel 맥 |
+
+앱은 이 저장소의 `latest.yml` / `latest-mac.yml` 로 업데이트를 확인합니다.
